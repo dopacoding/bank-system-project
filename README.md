@@ -2,8 +2,8 @@
 
 ---
 
-![DopaTxt in Action](https://github.com/dopacoding/DOPAtxt/blob/bb06d6e6cb503edb2bbc3b32e425713b2c5f7d0f/dopatxt1.PNG)
-![DopaTxt in Action](https://github.com/dopacoding/DOPAtxt/blob/bb06d6e6cb503edb2bbc3b32e425713b2c5f7d0f/dopatxt1.PNG)
+![DopaTxt in Action](https://github.com/dopacoding/bank-system-project/blob/e1dca637c75593ce81268a71f8c54171eb9ed416/bank%20systen%20project.PNG)
+![DopaTxt in Action](https://github.com/dopacoding/bank-system-project/blob/e1dca637c75593ce81268a71f8c54171eb9ed416/bank%20system%20project1.PNG)
 
 ---
 
@@ -95,17 +95,14 @@ The **Console Bank Application** is a versatile banking program built to handle 
 
  ## 🖼️ Application Preview
 
-- Client Management
-![DopaTxt in Action](https://github.com/dopacoding/DOPAtxt/blob/bb06d6e6cb503edb2bbc3b32e425713b2c5f7d0f/dopatxt1.PNG)
-
 - Transactions
-![DopaTxt in Action](https://github.com/dopacoding/DOPAtxt/blob/bb06d6e6cb503edb2bbc3b32e425713b2c5f7d0f/dopatxt1.PNG)
+![DopaTxt in Action](https://github.com/dopacoding/bank-system-project/blob/e1dca637c75593ce81268a71f8c54171eb9ed416/bank%20system%20transactions.PNG)
 
 - Currency Exchange
-![DopaTxt in Action](https://github.com/dopacoding/DOPAtxt/blob/bb06d6e6cb503edb2bbc3b32e425713b2c5f7d0f/dopatxt1.PNG)
+![DopaTxt in Action](https://github.com/dopacoding/bank-system-project/blob/e1dca637c75593ce81268a71f8c54171eb9ed416/bank%20system%20currency%20exchange.PNG)
 
 - User Management
-![DopaTxt in Action](https://github.com/dopacoding/DOPAtxt/blob/bb06d6e6cb503edb2bbc3b32e425713b2c5f7d0f/dopatxt1.PNG)
+![DopaTxt in Action](https://github.com/dopacoding/bank-system-project/blob/e1dca637c75593ce81268a71f8c54171eb9ed416/bank%20system%20manage%20users.PNG)
 
 ---
 ## 🤝 Contributing
